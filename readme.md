@@ -1,4 +1,4 @@
-# Botty — NOLAI AI-robot
+# Botty — AI-robot
 
 **Botty** is an educational AI tamagotchi based on the mascot at [NOLAI (Nationaal OnderwijsLab AI)](https://nolai.nl). She lives at [botty.ramonmoorlag.nl](https://botty.ramonmoorlag.nl).
 
@@ -75,4 +75,4 @@ This is not directly connected to NOLAI, it's products or it's views. It was dev
 
 ---
 
-*Made with care by Ramon Moorlag / NOLAI*
+*Made with care by Ramon Moorlag*
